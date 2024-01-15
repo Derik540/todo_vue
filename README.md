@@ -1,6 +1,10 @@
-# vue_todo
+# To do List com o Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue" />
+  </a>
+</p>
 
 ## Recommended IDE Setup
 
